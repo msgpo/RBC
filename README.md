@@ -1,13 +1,13 @@
 This is my clone configuration. I created the repository for backup reasons and if I accidently delete my config, yup that really happened!
 
-
-![Used rclone Browser version](https://github.com/CHEF-KOCH/RBC/blob/master/Screenshots/About.png?raw=true "About rclone Browser")
+<p align="center">
+  <img width="auto" height="auto" src="https://github.com/CHEF-KOCH/RBC/blob/master/Screenshots/About.png?">
+</p>
 
 
 ### Which versions do I use/prefer?
 * [kapitainsky / RcloneBrowser beta versions](https://github.com/kapitainsky/RcloneBrowser/issues/93)
 * [rclone beta builds](https://beta.rclone.org/)
-
 
 
 ## General
