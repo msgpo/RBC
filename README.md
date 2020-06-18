@@ -8,6 +8,7 @@ This is my clone configuration. I created the repository for backup reasons and 
 ### Which versions do I use/prefer?
 * [kapitainsky / RcloneBrowser beta versions](https://github.com/kapitainsky/RcloneBrowser/issues/93)
 * [rclone beta builds](https://beta.rclone.org/)
+* [WinFSP](https://github.com/billziss-gh/winfsp) - needed to mount your drives
 
 
 ## General
@@ -76,3 +77,9 @@ This is my clone configuration. I created the repository for backup reasons and 
 ## Proxy
 
 I do not use any extra socks/proxy, since I'm already behind a VPN.
+
+
+## Config Tweaks
+
+Mounting
+* `--attr-timeout 8760h --dir-cache-time 8760h --fast-list --buffer-size 256M -v --vfs-cache-mode minimal`
