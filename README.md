@@ -1,7 +1,7 @@
 This is my clone configuration. I created the repository for backup reasons and if I accidently delete my config, yup that really happened!
 
 
-![Used rclone Browser version](About.png "About rclone Browser")
+![Used rclone Browser version](https://github.com/CHEF-KOCH/RBC/blob/master/Screenshots/About.png?raw=true "About rclone Browser")
 
 
 ### Which versions do I use/prefer?
@@ -12,7 +12,7 @@ This is my clone configuration. I created the repository for backup reasons and 
 
 ## General
 
-![My settings](Preferences.png "Preferences")
+![My settings](https://github.com/CHEF-KOCH/RBC/blob/master/Screenshots/Preferences.png?raw=true "Preferences")
 
 ### Settings
 **Settings** | **Priority** | **Details and Hints**
