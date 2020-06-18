@@ -35,7 +35,7 @@ This is my clone configuration. I created the repository for backup reasons and 
 **Settings** | **Priority** | **Details and Hints**
 --- | --- | ---
 **Check for Rclone Browser updates** | Enabled (Default) | It does not matter if it's enabled or disabled because the original project is no longer under development.
-**Check for rclone updates** | Enabled (Default) | Leave it enabled.
+**Check for rclone updates** | Enabled (Default) | Leave it enabled. if yo prefer stable rclone build update notifications, otherwise turn it off and use beta builds (_link above_).
 
 
 
