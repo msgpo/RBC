@@ -1,0 +1,26 @@
+# Linguist overrides
+# https://github.com/github/linguist
+# This is not a 100% HTML repo, it's an 100% Markdown repo and HTML is only a byproduct.
+*.md linguist-vendored=false
+*.md linguist-generated=false
+*.md linguist-documentation=false
+*.md linguist-detectable=true
+
+Workaround for Git ignoring trailing whitespace in markdown files only
+**/*.md text whitespace=-cr-at-eol,-trailing-space
+
+# Treat unknown files as binary and do NOT do line ending conversions
+* binary diff
+
+# SPECFIC OVERRIDES
+LICENSE           cleantext
+*.gitattributes   cleantext
+*.gitignore       cleantext
+*.gitmodules      cleantext
+*.markdown        cleantext
+*.md              cleantext
+*.yml             cleantext
+*.gpg             filter=gpg diff=gpg
+*.asc             filter=gpg diff=gpg
+*.png             binary
+*.jpg             binary
